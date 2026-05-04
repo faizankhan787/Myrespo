@@ -1,2 +1,2 @@
 # Myrespo
-MyPriject
+MyProject
